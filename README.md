@@ -1,4 +1,4 @@
-# Sylvia Plath Poems Analysis Notebook
+# Sylvia Plath Poems: Data Analysis Project (Colab/.ipynb Notebook)
 
 ## Notebook Description
 This Jupyter notebook is designed for a comprehensive literary analysis of Sylvia Plath's poems, using a variety of Python libraries for data manipulation, natural language processing (NLP), and visualization. The notebook is structured into distinct sections, each focusing on different aspects of text analysis and visualization.
