@@ -13,7 +13,7 @@ This Jupyter notebook is designed for a comprehensive literary analysis of Sylvi
 ## How to Use the Notebook
 ### Setup
 - Ensure all necessary libraries are installed: `pandas`, `plotly.graph_objects`, `datetime`, `nltk`, `spacy`, `string`, `collections`, `docx`, `plotly.express`, `textblob`.
-- Download `PlathPoems.csv`, `PlathPoems.docx`, and `poems_by_year.csv`. Load them into the "files" section of this notebook.
+- Download `PlathPoems.csv`, `PlathPoems.docx`, and `poems_by_year.csv` from this repository. Load them into the "files" section of this notebook.
 
 ### Running Sections
 - Execute each cell sequentially. Each section includes code for analysis and visualization.
